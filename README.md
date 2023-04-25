@@ -1,2 +1,2 @@
 # AdventOfCode2022Swift
- Advent Of Code done in Swift Playground!
+ Advent Of Code (NOT) done in Swift Playground!
